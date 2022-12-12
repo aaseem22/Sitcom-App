@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Sitcom App</string>
+    <string name="app_title">The Sitcom App</string>
+    <string name="devName">powered by @aaseem18</string>
+    <string name="Welcome">Welcome</string>
+    <string name="desc">Discover legendary sitcoms and their hilarious characters</string>
+    <string name="sitcom">Sitcoms</string>
+    <string name="theOffice">The Office</string>
+    <string name="office_desc">The Office is an American mockumentary sitcom television series that depicts the everyday work lives of office employees in the Scranton</string>
+</resources>
